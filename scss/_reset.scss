@@ -1,0 +1,15 @@
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Epilogue', sans-serif;
+    background-color: #28293E;
+}
+
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
